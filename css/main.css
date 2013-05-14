@@ -19,8 +19,9 @@ body {
   font: 0/0 a;
   color: transparent;
   background: url(../img/logot.png) top left no-repeat;
-  width:310px;
-  height:77px;
+  width: 310px;
+  height: 77px;
+  display: block;
 }
 h1 {
   color: #0079c2;
